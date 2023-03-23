@@ -1,7 +1,7 @@
 # The Australian Proteomics Analysis Facility at Macquarie University
 
-**APAF's mission is to assist the scientific community address their protein analysis needs.
-**
+APAF's mission is to assist the scientific community address their protein analysis needs.
+------------------------------------------------------------------------------------------
 
 
 The Australian Proteome Analysis Facility (APAF) is a service and research facility which is part of the Macquarie Analytical and Fabrication Facility (MAFF) within Macquarie University.  For more than 20 years we have been providing service work and research support across industry, academia and government organisations, servicing hundreds of clients annually in the biomedical, life sciences, environmental, food and agriculture sectors.
