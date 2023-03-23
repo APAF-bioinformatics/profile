@@ -1,5 +1,4 @@
-# profile
-The Australian Proteomics Analysis Facility at Macquarie University
+# The Australian Proteomics Analysis Facility at Macquarie University
 
 **APAF's mission is to assist the scientific community address their protein analysis needs.
 **
